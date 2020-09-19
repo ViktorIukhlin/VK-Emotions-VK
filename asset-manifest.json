@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VK-Emotions-VK/static/css/main.570dbad6.chunk.css",
+    "main.js": "/VK-Emotions-VK/static/js/main.0826cf1f.chunk.js",
+    "main.js.map": "/VK-Emotions-VK/static/js/main.0826cf1f.chunk.js.map",
+    "runtime-main.js": "/VK-Emotions-VK/static/js/runtime-main.b5a84b93.js",
+    "runtime-main.js.map": "/VK-Emotions-VK/static/js/runtime-main.b5a84b93.js.map",
+    "static/css/2.09e62520.chunk.css": "/VK-Emotions-VK/static/css/2.09e62520.chunk.css",
+    "static/js/2.896368b7.chunk.js": "/VK-Emotions-VK/static/js/2.896368b7.chunk.js",
+    "static/js/2.896368b7.chunk.js.map": "/VK-Emotions-VK/static/js/2.896368b7.chunk.js.map",
+    "index.html": "/VK-Emotions-VK/index.html",
+    "precache-manifest.5a2cb5187eba9b6de37443aa0dbd55df.js": "/VK-Emotions-VK/precache-manifest.5a2cb5187eba9b6de37443aa0dbd55df.js",
+    "service-worker.js": "/VK-Emotions-VK/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/VK-Emotions-VK/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.570dbad6.chunk.css.map": "/VK-Emotions-VK/static/css/main.570dbad6.chunk.css.map",
+    "static/js/2.896368b7.chunk.js.LICENSE.txt": "/VK-Emotions-VK/static/js/2.896368b7.chunk.js.LICENSE.txt",
+    "static/media/blue.jpg": "/VK-Emotions-VK/static/media/blue.e7f22b8f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5a84b93.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.896368b7.chunk.js",
+    "static/css/main.570dbad6.chunk.css",
+    "static/js/main.0826cf1f.chunk.js"
+  ]
+}
