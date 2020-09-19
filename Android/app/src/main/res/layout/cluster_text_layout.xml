@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/counterTV"
+    android:layout_width="32dp"
+    android:textColor="@color/white"
+    android:fontFamily="sans-serif-medium"
+    android:textSize="15sp"
+    android:text="1"
+    android:paddingTop="5dp"
+    android:paddingLeft="12dp"
+    android:background="@drawable/cluster_counter_blue"
+    android:layout_height="32dp">
+
+</TextView>

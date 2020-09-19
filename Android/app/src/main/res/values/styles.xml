@@ -1,0 +1,97 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="blue_vk_button_small" parent="@android:style/Widget.Button">
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@string/font_fontFamily_medium</item>
+<!--        <item name="android:shadowColor">#FF000000</item>-->
+<!--        <item name="android:shadowDx">0</item>-->
+<!--        <item name="android:shadowDy">-1</item>-->
+<!--        <item name="android:shadowRadius">0.2</item>-->
+<!--        <item name="android:textSize">16sp</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+        <item name="android:background">@drawable/button_blue_vk</item>
+<!--        <item name="android:focusable">true</item>-->
+<!--        <item name="android:clickable">true</item>-->
+    </style>
+    <style name="blue_vk_button_large" parent="@android:style/Widget.Button">
+        <item name="android:fontFamily">@string/font_fontFamily_medium</item>
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:background">@drawable/button_blue_vk</item>
+    </style>
+    <style name="form_donation_label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/light_text2</item>
+    </style>
+    <style name="form_donation_input">
+        <item name="android:background">@drawable/input_gray</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColorHint">@color/light_text</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+    <style name="form_donation_input_multi">
+        <item name="android:background">@drawable/input_gray</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColorHint">@color/light_text</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+    <style name="form_donation_ll">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginTop">18dp</item>
+    </style>
+    <style name="gray_button_large" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:drawableRight">@drawable/ic_dropdown_icon</item>
+        <item name="android:background">@drawable/input_gray</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <string name="font_fontFamily_medium">sans-serif-medium</string>
+
+    <style name="Divider">
+        <item name="android:background">?android:attr/listDivider</item> //you can give your color here. that will change all divider color in your app.
+    </style>
+
+    <style name="Divider.Horizontal" parent="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item> // You can change thickness here.
+    </style>
+    <style name="Divider.Horizontal2" parent="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">4dp</item> // You can change thickness here.
+    </style>
+</resources>

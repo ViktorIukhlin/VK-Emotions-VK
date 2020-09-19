@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#F1F1F1</color>
+    <color name="colorAccent">#4986CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black8Percent">#14000000</color>
+    <color name="black12Percent">#1E000000</color>
+    <color name="gray1">#F5F5F5</color>
+    <color name="gray2">#F2F3F5</color>
+    <color name="gray_progress">#B8C1CC</color>
+    <color name="green_progress">#4BB34B</color>
+
+
+    <color name="button_dash_stroke">#E1E3E6</color>
+    <color name="button_blue_enable">#4986CC</color>
+    <color name="light_text">#818C99</color>
+
+    <color name="light_text2">#6D7885</color>
+    <color name="dark_text">#2C2D2E</color>
+
+
+    <color name="background">@color/white</color>
+    <color name="background_gray">#EBEDF0</color>
+
+
+</resources>
