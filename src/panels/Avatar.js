@@ -11,7 +11,6 @@ import './components/Avatar.css';
 
 const osName = platform();
 
-
 const Avatar = props => (
 	<Panel id={props.id}>
 		<PanelHeader
